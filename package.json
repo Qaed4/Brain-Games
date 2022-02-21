@@ -1,0 +1,31 @@
+{
+  "name": "chikabamboni",
+  "version": "1.0.0",
+  "main": "brain-games.js",
+  "author": "",
+  "license": "ISC",
+  "bin": {
+    "bin": "dist/bin/brain-games.js"
+  },
+  "files": [
+    "dist"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qaed4/ProjectOne.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Qaed4/ProjectOne/issues"
+  },
+  "homepage": "https://github.com/Qaed4/ProjectOne#readme",
+  "description": "",
+  "devDependencies": {
+    "@babel/cli": "^7.17.3",
+    "@babel/node": "^7.16.8",
+    "@babel/preset-env": "^7.16.11"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  },
+  "type": "module"
+}
